@@ -12,5 +12,10 @@ artwork_DATA = \
 		Path.jpg \
 		TulipBee.jpg
 
+backgroundpropsdir = $(datadir)/gnome-background-properties
+backgroundprops_DATA = \
+		evolve-os-wallpapers.xml
+
 EXTRA_DIST = \
-	$(artwork_DATA)
+	$(artwork_DATA) \
+	evolve-os-wallpapers.xml.in
