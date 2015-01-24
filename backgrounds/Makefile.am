@@ -1,6 +1,7 @@
 artworkdir = $(datadir)/backgrounds/evolve-os
 
 artwork_DATA = \
+		EvolveOSFresh.png \
 		BogFlower.jpg \
 		BrittasLake.jpg \
 		IMG_0597-evolve.JPG \
