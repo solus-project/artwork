@@ -4,6 +4,8 @@ artwork_DATA = \
 		EvolveOSFresh.png \
 		HermiteCrab1920x1080.jpg \
 		HermiteCrab2560x1600.jpg \
+		book.jpeg \
+		chalk.jpeg \
 		BogFlower.jpg \
 		BrittasLake.jpg \
 		IMG_0597-evolve.JPG \

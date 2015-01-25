@@ -26,6 +26,22 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Chalk</name>
+    <filename>@prefix@/share/backgrounds/evolve-os/chalk.jpeg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Book</name>
+    <filename>@prefix@/share/backgrounds/evolve-os/book.jpeg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>BogFlower</name>
     <filename>@prefix@/share/backgrounds/evolve-os/BogFlower.jpg</filename>
     <options>zoom</options>
