@@ -3,7 +3,7 @@ AM_CFLAGS =
 
 EXTRA_DIST = ${top_srcdir}/README.md \
 			 ${top_srcdir}/LICENSE \
-			 ${top_srcidr}/LICENSE.CCBY-3.0
+			 ${top_srcdir}/LICENSE.CCBY-3.0
 
 NULL =
 CLEANFILES =
