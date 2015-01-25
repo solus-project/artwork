@@ -10,6 +10,22 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Hermite Crab (1920x1080)</name>
+    <filename>@prefix@/share/backgrounds/evolve-os/HermiteCrab1920x1080.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Hermite Crab (2560x1600)</name>
+    <filename>@prefix@/share/backgrounds/evolve-os/HermiteCrab2560x1600.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>BogFlower</name>
     <filename>@prefix@/share/backgrounds/evolve-os/BogFlower.jpg</filename>
     <options>zoom</options>

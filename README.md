@@ -10,4 +10,9 @@ The photo images in backgrounds/ have kindly been provided by John McCormack
 for inclusion into Evolve OS. I'm incredibly grateful for the beautiful
 images he has provided.
 
-EvolveOSFresh.png was kindly provided by Alejandro Seoane.
+EvolveOSFresh.png was kindly provided by Alejandro Seoane and is available
+under the main package license, GPLv2.
+
+HermiteCrab2560x1600.jpg and HermiteCrab1920x1080.jpg are kindly provided
+by Dirk Hohndel and are available under the CC BY 3.0 license:
+https://creativecommons.org/licenses/by/3.0/us/
