@@ -4,7 +4,7 @@ artwork_DATA = \
 		SolusFresh.png \
 		HermiteCrab1920x1080.jpg \
 		HermiteCrab2560x1600.jpg \
-		book.jpeg \
+		book.png \
 		chalk.jpeg \
 		BogFlower.jpg \
 		BrittasLake.jpg \
