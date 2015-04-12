@@ -1,26 +1,26 @@
-artworkdir = $(datadir)/backgrounds/evolve-os
+artworkdir = $(datadir)/backgrounds/solus
 
 artwork_DATA = \
-		EvolveOSFresh.png \
+		SolusFresh.png \
 		HermiteCrab1920x1080.jpg \
 		HermiteCrab2560x1600.jpg \
 		book.jpeg \
 		chalk.jpeg \
 		BogFlower.jpg \
 		BrittasLake.jpg \
-		IMG_0597-evolve.JPG \
-		IMG_0604-evolve.JPG \
-		IMG_0605-evolve.JPG \
-		IMG_0608-evolve.JPG \
-		IMG_0609-evolve.JPG \
+		IMG_0597-solus.JPG \
+		IMG_0604-solus.JPG \
+		IMG_0605-solus.JPG \
+		IMG_0608-solus.JPG \
+		IMG_0609-solus.JPG \
 		Mama.jpg \
 		Path.jpg \
 		TulipBee.jpg
 
 backgroundpropsdir = $(datadir)/gnome-background-properties
 backgroundprops_DATA = \
-		evolve-os-wallpapers.xml
+		solus-wallpapers.xml
 
 EXTRA_DIST = \
 	$(artwork_DATA) \
-	evolve-os-wallpapers.xml.in
+	solus-wallpapers.xml.in

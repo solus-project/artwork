@@ -3,7 +3,7 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Fresh</name>
-    <filename>@prefix@/share/backgrounds/evolve-os/EvolveOSFresh.png</filename>
+    <filename>@prefix@/share/backgrounds/solus/SolusFresh.png</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -11,7 +11,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Hermite Crab (1920x1080)</name>
-    <filename>@prefix@/share/backgrounds/evolve-os/HermiteCrab1920x1080.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/HermiteCrab1920x1080.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -19,7 +19,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Hermite Crab (2560x1600)</name>
-    <filename>@prefix@/share/backgrounds/evolve-os/HermiteCrab2560x1600.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/HermiteCrab2560x1600.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -27,7 +27,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Chalk</name>
-    <filename>@prefix@/share/backgrounds/evolve-os/chalk.jpeg</filename>
+    <filename>@prefix@/share/backgrounds/solus/chalk.jpeg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -35,7 +35,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Book</name>
-    <filename>@prefix@/share/backgrounds/evolve-os/book.jpeg</filename>
+    <filename>@prefix@/share/backgrounds/solus/book.jpeg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -43,7 +43,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>BogFlower</name>
-    <filename>@prefix@/share/backgrounds/evolve-os/BogFlower.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/BogFlower.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -51,7 +51,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>BrittasLake</name>
-    <filename>@prefix@/share/backgrounds/evolve-os/BrittasLake.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/BrittasLake.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -59,7 +59,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Mama</name>
-    <filename>@prefix@/share/backgrounds/evolve-os/Mama.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/Mama.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -67,7 +67,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Path</name>
-    <filename>@prefix@/share/backgrounds/evolve-os/Path.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/Path.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
@@ -75,47 +75,47 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>TulipBee</name>
-    <filename>@prefix@/share/backgrounds/evolve-os/TulipBee.jpg</filename>
+    <filename>@prefix@/share/backgrounds/solus/TulipBee.jpg</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>IMG_0597-evolve</name>
-    <filename>@prefix@/share/backgrounds/evolve-os/IMG_0597-evolve.JPG</filename>
+    <name>IMG_0597-solus</name>
+    <filename>@prefix@/share/backgrounds/solus/IMG_0597-solus.JPG</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>IMG_0604-evolve</name>
-    <filename>@prefix@/share/backgrounds/evolve-os/IMG_0604-evolve.JPG</filename>
+    <name>IMG_0604-solus</name>
+    <filename>@prefix@/share/backgrounds/solus/IMG_0604-solus.JPG</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>IMG_0605-evolve</name>
-    <filename>@prefix@/share/backgrounds/evolve-os/IMG_0605-evolve.JPG</filename>
+    <name>IMG_0605-solus</name>
+    <filename>@prefix@/share/backgrounds/solus/IMG_0605-solus.JPG</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>IMG_0608-evolve</name>
-    <filename>@prefix@/share/backgrounds/evolve-os/IMG_0608-evolve.JPG</filename>
+    <name>IMG_0608-solus</name>
+    <filename>@prefix@/share/backgrounds/solus/IMG_0608-solus.JPG</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>IMG_0609-evolve</name>
-    <filename>@prefix@/share/backgrounds/evolve-os/IMG_0609-evolve.JPG</filename>
+    <name>IMG_0609-solus</name>
+    <filename>@prefix@/share/backgrounds/solus/IMG_0609-solus.JPG</filename>
     <options>zoom</options>
     <pcolor>#000000</pcolor>
     <scolor>#000000</scolor>
