@@ -4,5 +4,5 @@ AC_PREFIX_DEFAULT(/usr/local)
 
 AC_CONFIG_FILES([Makefile
                 backgrounds/Makefile
-                backgrounds/evolve-os-wallpapers.xml])
+                backgrounds/solus-wallpapers.xml])
 AC_OUTPUT
