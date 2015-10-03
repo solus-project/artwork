@@ -15,7 +15,8 @@ artwork_DATA = \
 		IMG_0609-solus.JPG \
 		Mama.jpg \
 		Path.jpg \
-		TulipBee.jpg
+		TulipBee.jpg \
+		ShannonClonmacnoise.jpg
 
 backgroundpropsdir = $(datadir)/gnome-background-properties
 backgroundprops_DATA = \
