@@ -1,4 +1,4 @@
-AC_INIT([Solus Artwork], 4, [ikey@solus-project.com], [solus-artwork], [https://solus-project.com/])
+AC_INIT([Solus Artwork], 5, [ikey@solus-project.com], [solus-artwork], [https://solus-project.com/])
 AM_INIT_AUTOMAKE([-Wno-portability no-dist-gzip dist-xz foreign subdir-objects])
 AC_PREFIX_DEFAULT(/usr/local)
 
