@@ -8,6 +8,12 @@ artwork_DATA = \
 		chalk.jpeg \
 		BogFlower.jpg \
 		BrittasLake.jpg \
+		DeepBlue-II.png \
+		DeepBlue-II-Circles.png \
+		DeepBlue-II-Green.png \
+		DeepBlue-II-Material.png \
+		DeepBlue-II-Original.png \
+		DeepBlue-II-Pink.png \
 		IMG_0597-solus.JPG \
 		IMG_0604-solus.JPG \
 		IMG_0605-solus.JPG \
