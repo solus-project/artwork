@@ -19,3 +19,9 @@ https://creativecommons.org/licenses/by/3.0/us/
 
 DeepBlue II wallpaper set is provided by Blake Angelo available under the CC BY 3.0 license:
 https://creativecommons.org/licenses/by/3.0/us/
+
+Logo & Branding
+----------------
+
+Copyright © 2015-2016 Solus Project.
+The Solus logo is Copyright © 2016 Solus Project. All Rights Reserved.
