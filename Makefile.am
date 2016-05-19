@@ -9,4 +9,5 @@ NULL =
 CLEANFILES =
 
 SUBDIRS = \
-	backgrounds
+	backgrounds \
+	icons
