@@ -18,19 +18,47 @@ EXTRA_DIST = \
 	scalable/distributor-logo-solus.svg \
 	scalable/start-here-solus.svg
 
-install-data-hook:
-	$(MKDIR_P) $(DESTDIR)/usr/share/icons/hicolor; \
-	for iSize in 16 24 32 48 64 96 256 512; do \
-		install -D -m 00644 "$(top_srcdir)/icons/$${iSize}x$${iSize}/start-here-solus.png" "$(DESTDIR)/usr/share/icons/hicolor/$${iSize}x$${iSize}/places/start-here-solus.png" && \
-		install -D -m 00644 "$(top_srcdir)/icons/$${iSize}x$${iSize}/distributor-logo-solus.png" "$(DESTDIR)/usr/share/icons/hicolor/$${iSize}x$${iSize}/places/distributor-logo-solus.png"; \
-	done; \
-	install -D -m 00644 "$(top_srcdir)/icons/scalable/start-here-solus.svg" "$(DESTDIR)/usr/share/icons/hicolor/scalable/places/start-here-solus.svg" && \
-	install -D -m 00644 "$(top_srcdir)/icons/scalable/distributor-logo-solus.svg" "$(DESTDIR)/usr/share/icons/hicolor/scalable/places/distributor-logo-solus.svg";
+16iconsdir = $(datadir)/icons/hicolor/16x16/places
+16icons_DATA = \
+	16x16/distributor-logo-solus.png \
+	16x16/start-here-solus.png
 
-uninstall-hook:
-	for iSize in 16 24 32 48 64 96 256 512; do \
-		rm -f "$(DESTDIR)/usr/share/icons/hicolor/$${iSize}x$${iSize}/places/start-here-solus.png" && \
-		rm -f "$(DESTDIR)/usr/share/icons/hicolor/$${iSize}x$${iSize}/places/distributor-logo-solus.png"; \
-	done; \
-	rm -f "$(DESTDIR)/usr/share/icons/hicolor/scalable/places/start-here-solus.svg" && \
-	rm -f "$(DESTDIR)/usr/share/icons/hicolor/scalable/places/distributor-logo-solus.svg";
+24iconsdir = $(datadir)/icons/hicolor/24x24/places
+24icons_DATA = \
+	24x24/distributor-logo-solus.png \
+	24x24/start-here-solus.png
+
+32iconsdir = $(datadir)/icons/hicolor/32x32/places
+32icons_DATA = \
+	32x32/distributor-logo-solus.png \
+	32x32/start-here-solus.png
+
+48iconsdir = $(datadir)/icons/hicolor/48x48/places
+48icons_DATA = \
+	48x48/distributor-logo-solus.png \
+	48x48/start-here-solus.png
+
+64iconsdir = $(datadir)/icons/hicolor/64x64/places
+64icons_DATA = \
+	64x64/distributor-logo-solus.png \
+	64x64/start-here-solus.png
+
+96iconsdir = $(datadir)/icons/hicolor/96x96/places
+96icons_DATA = \
+	96x96/distributor-logo-solus.png \
+	96x96/start-here-solus.png
+
+256iconsdir = $(datadir)/icons/hicolor/256x256/places
+256icons_DATA = \
+	256x256/distributor-logo-solus.png \
+	256x256/start-here-solus.png
+
+512iconsdir = $(datadir)/icons/hicolor/512x512/places
+512icons_DATA = \
+	512x512/distributor-logo-solus.png \
+	512x512/start-here-solus.png
+
+scaleiconsdir = $(datadir)/icons/hicolor/scalable/places
+scaleicons_DATA = \
+	scalable/distributor-logo-solus.svg \
+	scalable/start-here-solus.svg
