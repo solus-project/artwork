@@ -10,6 +10,22 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Solus 2016 Abstract</name>
+    <filename>@prefix@/share/backgrounds/solus/Solus-2016-abstract1-1920x1080.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Solus 2016 Ultrablur</name>
+    <filename>@prefix@/share/backgrounds/solus/Solus-2016UltraBlur-1920x1080.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Clonmacnoise, Shannon</name>
     <filename>@prefix@/share/backgrounds/solus/ShannonClonmacnoise.jpg</filename>
     <options>zoom</options>

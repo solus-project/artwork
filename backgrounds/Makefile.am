@@ -23,7 +23,9 @@ artwork_DATA = \
 		Path.jpg \
 		TulipBee.jpg \
 		ShannonClonmacnoise.jpg \
-		Athlone-Shannon-1920x1080.png
+		Athlone-Shannon-1920x1080.png \
+		Solus-2016-abstract1-1920x1080.jpg \
+		Solus-2016UltraBlur-1920x1080.jpg
 
 backgroundpropsdir = $(datadir)/gnome-background-properties
 backgroundprops_DATA = \
