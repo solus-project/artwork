@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Athlone, Shannon</name>
+    <filename>@prefix@/share/backgrounds/solus/Athlone-Shannon-1920x1080.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Solus 2016 Abstract</name>
+    <filename>@prefix@/share/backgrounds/solus/Solus-2016-abstract1-1920x1080.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Solus 2016 Ultrablur</name>
+    <filename>@prefix@/share/backgrounds/solus/Solus-2016UltraBlur-1920x1080.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Clonmacnoise, Shannon</name>
+    <filename>@prefix@/share/backgrounds/solus/ShannonClonmacnoise.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>DeepBlue II</name>
+    <filename>@prefix@/share/backgrounds/solus/DeepBlue-II.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>DeepBlue II Circles</name>
+    <filename>@prefix@/share/backgrounds/solus/DeepBlue-II-Circles.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>DeepBlue II Green</name>
+    <filename>@prefix@/share/backgrounds/solus/DeepBlue-II-Green.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>DeepBlue II Material</name>
+    <filename>@prefix@/share/backgrounds/solus/DeepBlue-II-Material.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>DeepBlue II Original</name>
+    <filename>@prefix@/share/backgrounds/solus/DeepBlue-II-Original.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>DeepBlue II Pink</name>
+    <filename>@prefix@/share/backgrounds/solus/DeepBlue-II-Pink.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Fresh</name>
+    <filename>@prefix@/share/backgrounds/solus/SolusFresh.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Hermite Crab (1920x1080)</name>
+    <filename>@prefix@/share/backgrounds/solus/HermiteCrab1920x1080.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Hermite Crab (2560x1600)</name>
+    <filename>@prefix@/share/backgrounds/solus/HermiteCrab2560x1600.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Chalk</name>
+    <filename>@prefix@/share/backgrounds/solus/chalk.jpeg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="true">
+    <name>Book (deleted)</name>
+    <filename>@prefix@/share/backgrounds/solus/book.jpeg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Book</name>
+    <filename>@prefix@/share/backgrounds/solus/book.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>BogFlower</name>
+    <filename>@prefix@/share/backgrounds/solus/BogFlower.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>BrittasLake</name>
+    <filename>@prefix@/share/backgrounds/solus/BrittasLake.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Mama</name>
+    <filename>@prefix@/share/backgrounds/solus/Mama.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Path</name>
+    <filename>@prefix@/share/backgrounds/solus/Path.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>TulipBee</name>
+    <filename>@prefix@/share/backgrounds/solus/TulipBee.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>IMG_0597-solus</name>
+    <filename>@prefix@/share/backgrounds/solus/IMG_0597-solus.JPG</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>IMG_0604-solus</name>
+    <filename>@prefix@/share/backgrounds/solus/IMG_0604-solus.JPG</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>IMG_0605-solus</name>
+    <filename>@prefix@/share/backgrounds/solus/IMG_0605-solus.JPG</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>IMG_0608-solus</name>
+    <filename>@prefix@/share/backgrounds/solus/IMG_0608-solus.JPG</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>IMG_0609-solus</name>
+    <filename>@prefix@/share/backgrounds/solus/IMG_0609-solus.JPG</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+ </wallpapers>

@@ -31,6 +31,11 @@ backgroundpropsdir = $(datadir)/gnome-background-properties
 backgroundprops_DATA = \
 		solus-wallpapers.xml
 
-EXTRA_DIST = \
-	$(artwork_DATA) \
-	solus-wallpapers.xml.in
+mate_backgroundpropsdir = $(datadir)/mate-background-properties
+mate_backgroundprops_DATA = \
+		solus-wallpapers-mate.xml
+
+EXTRA_DIST = 					 \
+	$(artwork_DATA)				 \
+	solus-wallpapers.xml.in		 \
+	solus-wallpapers-mate.xml.in
