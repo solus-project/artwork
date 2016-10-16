@@ -12,7 +12,6 @@ artwork_DATA = \
 		BrittasLake.jpg \
 		IMG_0597-solus.JPG \
 		IMG_0604-solus.JPG \
-		IMG_0605-solus.JPG \
 		IMG_0608-solus.JPG \
 		IMG_0609-solus.JPG \
 		Mama.jpg \
