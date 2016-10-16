@@ -34,54 +34,6 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>DeepBlue II</name>
-    <filename>@prefix@/share/backgrounds/solus/DeepBlue-II.png</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>DeepBlue II Circles</name>
-    <filename>@prefix@/share/backgrounds/solus/DeepBlue-II-Circles.png</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>DeepBlue II Green</name>
-    <filename>@prefix@/share/backgrounds/solus/DeepBlue-II-Green.png</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>DeepBlue II Material</name>
-    <filename>@prefix@/share/backgrounds/solus/DeepBlue-II-Material.png</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>DeepBlue II Original</name>
-    <filename>@prefix@/share/backgrounds/solus/DeepBlue-II-Original.png</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>DeepBlue II Pink</name>
-    <filename>@prefix@/share/backgrounds/solus/DeepBlue-II-Pink.png</filename>
-    <options>zoom</options>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
     <name>Fresh</name>
     <filename>@prefix@/share/backgrounds/solus/SolusFresh.png</filename>
     <options>zoom</options>
