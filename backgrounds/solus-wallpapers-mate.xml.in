@@ -10,6 +10,30 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Grand Canal, Tullamore</name>
+    <filename>@prefix@/share/backgrounds/solus/TullamoreGrandCanal.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Pub Side, Tullamore</name>
+    <filename>@prefix@/share/backgrounds/solus/PubSide.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Legendary Barrels, Tullamore</name>
+    <filename>@prefix@/share/backgrounds/solus/LegendaryBarrels.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Solus 2016 Abstract</name>
     <filename>@prefix@/share/backgrounds/solus/Solus-2016-abstract1-1920x1080.jpg</filename>
     <options>zoom</options>

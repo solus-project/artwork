@@ -2,6 +2,9 @@ artworkdir = $(datadir)/backgrounds/solus
 
 artwork_DATA = \
 		SolusFresh.png \
+		LegendaryBarrels.jpg \
+		PubSide.jpg \
+		TullamoreGrandCanal.jpg \
 		HermiteCrab1920x1080.jpg \
 		HermiteCrab2560x1600.jpg \
 		book.png \
