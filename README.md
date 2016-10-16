@@ -17,6 +17,11 @@ HermiteCrab2560x1600.jpg is kindly provided by Dirk Hohndel and is available
 under the CC BY 3.0 license:
 https://creativecommons.org/licenses/by/3.0/us/
 
+`Excl_*.jpg` photographs are copyright (© 2016) of Marius Nester, and are availably
+exclusively for the Solus project per prior agreement.
+These may only be distributed as part of the official Solus release medium.
+All rights reserved.
+ 
 Logo & Branding
 ----------------
 
