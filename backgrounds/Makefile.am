@@ -5,7 +5,6 @@ artwork_DATA = \
 		LegendaryBarrels.jpg \
 		PubSide.jpg \
 		TullamoreGrandCanal.jpg \
-		HermiteCrab1920x1080.jpg \
 		HermiteCrab2560x1600.jpg \
 		book.png \
 		chalk.jpeg \
