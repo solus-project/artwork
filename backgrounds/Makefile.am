@@ -8,6 +8,7 @@ artwork_DATA = \
 		Excl_Lonely_Railway.jpg \
 		Excl_Focal_Leaf.jpg \
 		Excl_Vintage_Bicycles.jpg \
+		Excl_Autumn_Retreat.jpg \
 		PubSide.jpg \
 		TullamoreGrandCanal.jpg \
 		HermiteCrab2560x1600.jpg \
