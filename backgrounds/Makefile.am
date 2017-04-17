@@ -7,6 +7,7 @@ artwork_DATA = \
 		Excl_Lazy_Summer_Leaf.jpg \
 		Excl_Lonely_Railway.jpg \
 		Excl_Focal_Leaf.jpg \
+		Excl_Focal_Spring.jpg \
 		Excl_Vintage_Bicycles.jpg \
 		Excl_Autumn_Retreat.jpg \
 		PubSide.jpg \
