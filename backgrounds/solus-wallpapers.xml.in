@@ -2,6 +2,22 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
+    <name>Crags</name>
+    <filename>@prefix@/share/backgrounds/solus/Crags.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Twigonometry</name>
+    <filename>@prefix@/share/backgrounds/solus/Twigonometry.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Athlone, Shannon</name>
     <filename>@prefix@/share/backgrounds/solus/Excl_Focal_Spring.jpg</filename>
     <options>zoom</options>

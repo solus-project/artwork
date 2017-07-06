@@ -1,6 +1,8 @@
 artworkdir = $(datadir)/backgrounds/solus
 
 artwork_DATA = \
+		Crags.png \
+		Twigonometry.jpg \
 		SolusFresh.png \
 		LegendaryBarrels.jpg \
 		Excl_Autumn_Leaf.jpg \
