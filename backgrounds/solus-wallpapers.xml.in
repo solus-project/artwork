@@ -10,6 +10,14 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Cliffs of Moher</name>
+    <filename>@prefix@/share/backgrounds/solus/Cliffs_of_Moher.png</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Twigonometry</name>
     <filename>@prefix@/share/backgrounds/solus/Twigonometry.jpg</filename>
     <options>zoom</options>
