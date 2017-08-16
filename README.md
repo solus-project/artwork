@@ -22,7 +22,7 @@ exclusively for the Solus project per prior agreement.
 These may only be distributed as part of the official Solus release medium.
 All rights reserved.
 
-Ekianjo_green_steps.jpg is copyright 2016 Raphael Guyot and is provided exclusively to the Solus Project for use in this artwork package. All other rights reserved.
+Ekianjo_green_steps.jpg is copyright 2016-2017 Raphael Guyot and is provided exclusively to the Solus Project for use in this artwork package. All other rights reserved.
  
 Logo & Branding
 ----------------
