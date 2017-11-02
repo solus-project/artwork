@@ -13,6 +13,7 @@ artwork_DATA = \
 		Excl_Focal_Spring.jpg \
 		Excl_Vintage_Bicycles.jpg \
 		Excl_Autumn_Retreat.jpg \
+		fake-stars.jpg \
 		PubSide.jpg \
 		TullamoreGrandCanal.jpg \
 		HermiteCrab2560x1600.jpg \
