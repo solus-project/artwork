@@ -1,10 +1,1 @@
-Makefile
-Makefile.in
-aclocal.m4
-autom4te.cache/
-backgrounds/solus-wallpapers.xml
-backgrounds/solus-wallpapers-mate.xml
-config.*
-configure
-install-sh
-missing
+/build/
