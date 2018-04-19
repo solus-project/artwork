@@ -4,8 +4,8 @@ project(
     version: '18',
     license: [
         'GPL-2.0',
-        'CCBY-3.0 ',
-        'CCBY-SA-4.0',
+        'CC-BY-3.0 ',
+        'CC-BY-SA-4.0',
     ],
     default_options: [
         'prefix=/usr',
