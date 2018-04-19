@@ -5,7 +5,7 @@ git submodule init
 git submodule update
 
 # Bump in tandem with meson.build, run script once new tag is up.
-VERSION="18"
+VERSION="19"
 
 NAME="artwork"
 ./scripts/git-archive-all.sh --format tar --prefix ${NAME}-${VERSION}/ --verbose -t HEAD ${NAME}-${VERSION}.tar
