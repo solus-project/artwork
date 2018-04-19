@@ -22,6 +22,7 @@ wallpapers = [
     'IMG_0609-solus.JPG',
     'LegendaryBarrels.jpg',
     'Mama.jpg',
+    'matador-rocks.jpg',
     'Path.jpg',
     'PubSide.jpg',
     'ShannonClonmacnoise.jpg',
