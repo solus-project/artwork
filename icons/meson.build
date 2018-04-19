@@ -1,13 +1,19 @@
 icons_dir = join_paths(path_datadir, 'icons', 'hicolor')
 
-# Install the places icons
-places_icon_sizes = [
+icon_sizes = [
+    '16x16',
+    '24x24',
+    '32x32',
+    '48x48',
+    '64x64',
+    '96x96',
     '256x256',
     '512x512',
     'scalable',
 ]
 
-foreach icon_size : ['256x256', '512x512', 'scalable']
+# Install the places icons
+foreach icon_size : icon_sizes
     if icon_size == 'scalable'
         suffix = '.svg'
     else
@@ -26,19 +32,7 @@ endforeach
 
 
 # Install the mimetypes icons
-mime_icon_sizes = [
-    '16x16',
-    '24x24',
-    '32x32',
-    '48x48',
-    '64x64',
-    '96x96',
-    '256x256',
-    '512x512',
-    'scalable',
-]
-
-foreach icon_size : mime_icon_sizes
+foreach icon_size : icon_sizes
     if icon_size == 'scalable'
         suffix = '.svg'
     else
