@@ -16,6 +16,8 @@ HermiteCrab2560x1600.jpg is kindly provided by Dirk Hohndel and is available und
 
 `matador-rocks.jpg` is provided by Mica Semrick and is licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
+`GuadeloupeanFlower.png` is provided by Julie Pourcelot and is licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
 Logo & Branding
 ----------------
 
