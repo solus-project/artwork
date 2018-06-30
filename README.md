@@ -18,6 +18,8 @@ HermiteCrab2560x1600.jpg is kindly provided by Dirk Hohndel and is available und
 
 `apila.jpg`, `kukkasilta.jpg`, `lankku.jpg`, `lumo.jpg`, `nuppu.jpg` and `silmu.jpg` are provided by Reetta Piiroinen and are licensed [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
+`niitty.jpg` is provided by Jarno Turkki and is licensed [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
 Logo & Branding
 ----------------
 
