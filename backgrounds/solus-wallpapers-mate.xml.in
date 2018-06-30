@@ -249,4 +249,60 @@
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
+  	<wallpaper deleted="false">
+    <name>Apila</name>
+    <filename>@prefix@/share/backgrounds/solus/apila.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  	<wallpaper deleted="false">
+    <name>Kukkasilta</name>
+    <filename>@prefix@/share/backgrounds/solus/kukkasilta.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+    	<wallpaper deleted="false">
+    <name>Lankku</name>
+    <filename>@prefix@/share/backgrounds/solus/lankku.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+      	<wallpaper deleted="false">
+    <name>Lumo</name>
+    <filename>@prefix@/share/backgrounds/solus/lumo.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+       <wallpaper deleted="false">
+    <name>Nuppu</name>
+    <filename>@prefix@/share/backgrounds/solus/nuppu.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+         <wallpaper deleted="false">
+    <name>Silmu</name>
+    <filename>@prefix@/share/backgrounds/solus/silmu.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+         <wallpaper deleted="false">
+    <name>Niitty</name>
+    <filename>@prefix@/share/backgrounds/solus/niitty.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
  </wallpapers>
