@@ -32,6 +32,13 @@ wallpapers = [
     'TulipBee.jpg',
     'TullamoreGrandCanal.jpg',
     'Twigonometry.jpg',
+    'apila.jpg',
+    'kukkasilta.jpg',
+    'lankku.jpg',
+    'lumo.jpg',
+    'niitty.jpg',
+    'nuppu.jpg',
+    'silmu.jpg',
 ]
 
 wallpaper_dir = join_paths(path_datadir, 'backgrounds', 'solus')
