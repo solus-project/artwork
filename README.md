@@ -16,6 +16,8 @@ HermiteCrab2560x1600.jpg is kindly provided by Dirk Hohndel and is available und
 
 `matador-rocks.jpg` is provided by Mica Semrick and is licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
+`apila.jpg`, `kukkasilta.jpg`, `lankku.jpg`, `lumo.jpg`, `nuppu.jpg` and `silmu.jpg` are provided by Reetta Piiroinen and are licensed [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
 Logo & Branding
 ----------------
 
