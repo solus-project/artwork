@@ -16,6 +16,9 @@ HermiteCrab2560x1600.jpg is kindly provided by Dirk Hohndel and is available und
 
 `matador-rocks.jpg` is provided by Mica Semrick and is licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
+`IMG_9656.png` and `IMG_9710.png` © 2018 Reetta Piiroinen. These may only be distributed as part of the official Solus release medium. 
+
+
 Logo & Branding
 ----------------
 
